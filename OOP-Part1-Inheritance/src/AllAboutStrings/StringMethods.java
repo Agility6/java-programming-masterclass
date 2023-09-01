@@ -1,4 +1,4 @@
-package AllAboutStrings;
+package allAboutStrings;
 
 public class StringMethods {
     public static void main(String[] args) {

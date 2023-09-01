@@ -1,4 +1,4 @@
-package Static_Variables;
+package static_variables;
 
 public class Main {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Super_This;
+package super_this;
 
 public class Super_example {
 

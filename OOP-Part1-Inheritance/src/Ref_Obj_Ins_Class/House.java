@@ -1,4 +1,4 @@
-package Ref_Obj_Ins_Class;
+package ref_obj_ins_class;
 
 public class House {
   private String color;

@@ -1,4 +1,4 @@
-package RecordProject;
+package recordProject;
 
 /**
  * ClassName: Main

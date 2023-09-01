@@ -1,4 +1,4 @@
-package Static_Variables;
+package static_variables;
 
 public class Dog {
   private static String name;
