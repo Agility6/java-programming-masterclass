@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OOP-Part1-Inheritance/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/OOP-Part1-Inheritance/Exercise/Exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Part2-Polymorphism/Exericise/Exericise.iml" filepath="$PROJECT_DIR$/OOP-Part2-Polymorphism/Exericise/Exericise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-Part1-Inheritance/OOP-Part1-Inheritance.iml" filepath="$PROJECT_DIR$/OOP-Part1-Inheritance/OOP-Part1-Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-Part2-Polymorphism/OOP-Part2-Polymorphism.iml" filepath="$PROJECT_DIR$/OOP-Part2-Polymorphism/OOP-Part2-Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Part1-Inheritance/OOP1_Exercise/OOP1_Exercise.iml" filepath="$PROJECT_DIR$/OOP-Part1-Inheritance/OOP1_Exercise/OOP1_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Part2-Polymorphism/OOP2_Exercise/OOP2_Exercise.iml" filepath="$PROJECT_DIR$/OOP-Part2-Polymorphism/OOP2_Exercise/OOP2_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-programming-masterclass.iml" filepath="$PROJECT_DIR$/.idea/java-programming-masterclass.iml" />
     </modules>
   </component>
